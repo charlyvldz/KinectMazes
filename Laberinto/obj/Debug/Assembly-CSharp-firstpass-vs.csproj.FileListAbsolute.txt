@@ -1,0 +1,11 @@
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\UnityEditor.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\UnityEngine.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Mono.Cecil.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\nunit.framework.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Unity.DataContract.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\ESCRITORIO\Laberinto\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\ESCRITORIO\Laberinto\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\ESCRITORIO\Laberinto\obj\Debug\Assembly-CSharp-firstpass.pdb

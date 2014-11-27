@@ -1,0 +1,16 @@
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Assembly-UnityScript.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\UnityEditor.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\UnityEngine.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Mono.Cecil.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\nunit.framework.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Unity.DataContract.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\ESCRITORIO\Laberinto\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\ESCRITORIO\Laberinto\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+D:\ESCRITORIO\Laberinto\obj\Debug\Assembly-CSharp-Editor.dll
+D:\ESCRITORIO\Laberinto\obj\Debug\Assembly-CSharp-Editor.pdb
